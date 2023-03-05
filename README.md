@@ -2,6 +2,8 @@
 
 # AUTHOR = AKILESH S,
 
+To know more about me or follow,
+
 <li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a>   
 
 The above listed codes and information are unique and it is open source to use,
