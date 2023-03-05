@@ -1,6 +1,9 @@
 # E-commerce-recommendation-system
 
 # AUTHOR = AKILESH S,
+
+<li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a>   
+
 The above listed codes and information are unique and it is open source to use,
 
 We Done E-commerce Customer Recommendation Sytem using python,
