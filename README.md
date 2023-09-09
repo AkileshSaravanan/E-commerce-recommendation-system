@@ -2,11 +2,11 @@
 
 # AUTHOR = AKILESH S,
 
-The above listed codes and information are unique and it is open source to use,
+The above-listed codes and information are unique and it is open-source to use,
 
-We Done E-commerce Customer Recommendation Sytem using python,
+We have done an E-commerce Customer Recommendation system using python,
 
-The above files contains codes,
+The above files contain codes,
 
 Kalasalingam Academy of Research and Education,
 
@@ -14,6 +14,7 @@ Tamil Nadu.
 
 To know more about me or to follow my work, you can visit me on,
 
+<li><a href="https://akileshsaravanan.github.io/">Portfolio</a> 
 <li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
 <li><a href="https://github.com/AkileshSaravanan">Github</a> 
 <li><a href="https://www.hackerrank.com/Akilesh_RMS">HackerRank</a> 
